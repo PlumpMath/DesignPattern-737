@@ -7,6 +7,6 @@ package huadi.designpattern.proxy;
  */
 public interface IStaticProxy {
 
-	void sayHello();
+    void sayHello();
 
 }
